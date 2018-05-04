@@ -1,0 +1,18 @@
+ body {
+     background-color:#ccffcc;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ h1 {
+    text-align:center;
+ }
+
+ #Succulents img {
+    width: 200;
+    height: 200;
+ }
+
+ img {
+     width: 150;
+     height: 200;
+ }
